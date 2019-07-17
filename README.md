@@ -1,2 +1,2 @@
 # bootstap
-<h3>Having some fun using bootstrap</h3>
+<h3><em>Having some fun using bootstrap</em></h3>
